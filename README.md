@@ -7,12 +7,12 @@ Build a chatbot with a customizable configuration function that can serve multip
 
 ---
 
-## ⚙️ Tech Stack:
+## Tech Stack:
 - write techstack!
 
 ---
 
-## ☁️ AWS Deployment
+## AWS Deployment
 - **Frontend (S3 + DNS):** https://bot.wwbp.org/
 - **Backend (Elastic Beanstalk)
 - - **Database (RDS)
